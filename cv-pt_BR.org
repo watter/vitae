@@ -1,0 +1,204 @@
+
+* Curriculum Vitae - pt_BR
+
+** Dados Pessoais
+ + *Nome* Leslie Harlley Watter
+ + *E-mail* watter at gmail dot com
+ + *E-mail* leslie at watter dot org
+
+
+** Escolaridade
+
+ + *Stricto-Sensu* Mestrado em Informática, 
+   Área de Concentração: Sistemas de Alto Desempenho,
+   Término: Abril de 2006 
+   Local: Universidade Federal do  Paraná -  UFPR.
+
+ + *Graduação* Curso de Ciência da Computação,
+   Término: Abril de 2003 
+   Local: Universidade Federal do  Paraná -  UFPR.
+
+ + *Médio* Técnico em Processamento de Dados, 
+   Término: dezembro de 1995 
+   Local: Escola Técnica da Universidade Federal do Paraná.
+
+
+** Conhecimentos na Área Profissional
+
+ + *Linguagens de Programação*  C, C++, Java (intermediário), Python (iniciante) 
+ + *Automatização de Tarefas e Documentação* Awk, Sed,  Shell Script, Elisp, LaTeX, XML 
+ + *Sistemas Operacionais* Administrador Linux, Usuário Windows 
+
+** Cursos Paralelos
+
+ + *2011* Curso de Google Search Appliance,
+        Carga Horária: 32 horas , 
+        Local: Just Digital, São Paulo - SP.
+ + *2003*	Curso de Expressão Verbal, 
+		Carga Horária:	16 horas, 
+		Local: Clube de Oratória e Liderança de Joinville, Joinville/SC.
+ + *2001*	Certificação Avançada Conectiva Linux (Administração do Linux I e II)
+		Local: Conectiva S.A.
+
+** Línguas
+
+ + *Inglês* fluente
+ + *Alemão* lê
+ + *Espanhol* compreende
+ + *Russo* básico
+ + *Português* fluente
+
+** Produção Científica
+
+Participação no desenvolvimento do produto e autoria dos livros:
+
+
+ + *Guia do Usuário do Conectiva Linux 8.0*
+   publicado em 2002, 
+   editado por Conectiva S.A.,		
+   269p, ISBN 85-87118-41-2 
+ + *Guia do Entendendo o Conectiva Linux 8.0*
+   publicado em 2002, 
+   editado por Conectiva S.A.,
+   196p, ISBN 85-87118-40-4 
+ + *Guia do Servidor Conectiva Linux 8.0*
+   publicado em 2002, 
+   editado por Conectiva S.A.,		
+   401p, ISBN 85-87118-39-0 
+ + *Guia do Usuário do Conectiva Linux 7.0*
+   publicado em 2001, 
+   editado por Conectiva S.A.,		
+   260p, ISBN 85-87118-37-4 
+ + *Guia do Entendendo o Conectiva Linux 7.0*
+   publicado em 2001, 
+   editado por Conectiva S.A.,		
+   175p, ISBN 85-87118-36-6 
+ + *Guia do Servidor Conectiva Linux 7.0*
+   publicado em 2001, 
+   editado por Conectiva S.A.,		
+   345p, ISBN 85-87118-36-6 
+ + *Ferramentas Linux: Programas Gráficos*
+   publicado em 2000,
+   editado por Conectiva S.A.,
+   346p, ISBN 85-87118-15-3.
+ + *Guia do Usuário do Conectiva Linux 6.0*
+   publicado em 2000, 
+   editado por Conectiva S.A.,		
+   408p, ISBN 85-87118-27-7 
+
+
+** Atividades Didáticas
+
+*** Professor na Faculdade FAE/Bom Jesus
+Tempo de Trabalho: 03/2011 até o presente
+
+Atividades Desenvolvidas:
+ + *2 semestre de 2011. Disciplina(s)*
+   + /Tópicos em Sistemas de Informação/, com o conteúdo voltado para o ensino de práticas de gerência de projetos.
+
+ + *1 semestre de 2011. Disciplina(s)*
+   + /Tópicos em Sistemas de Informação/, com o conteúdo voltado para o ensino de práticas de gerência de projetos.
+   + /Segurança e Monitoramento de Redes/, a ementa trata do meios para fornecer segurança e monitoramento de servidores Linux.
+   + /Introdução à Redes/, com o conteúdo voltado para o ensino introdutório de redes de computadores.
+
+
+*** Professor na Especialização da UFPR
+Tempo de Trabalho: 09/2009 até 12/2009 e 09/2010 até 12/2010
+
+
+Atividades Desenvolvidas:
+ + *Módulo 3*
+   + /Migração de Serviços e Servidores/, com o objetivo de fornecer aos alunos
+     uma experiência de migração de serviços e servidores da plataforma Windows para a plataforma Linux.
+
+
+*** Professor nas Faculdades Eseei
+Tempo de Trabalho: 08/2006 até 02/2008
+
+
+Atividades Desenvolvidas:
+ + *2 semestre de 2007. Disciplina(s)*
+  + /Teleprocessamento I/, com o objetivo de ensinar aos alunos noções básicas de redes de computadores.
+  + /Segurança e Monitoramento de Redes/, a ementa trata do meios para  fornecer segurança e monitoramento de servidores Linux.
+  + /Sistemas Operacionais -- Kernel do Linux/, com o conteúdo voltado para o ensino de sistemas operacionais com enfoque na abordagem dada pelo kernel do Linux. 
+
+ + *1 semestre de 2007. Disciplina(s)*
+  + /Sistemas Operacionais -- Kernel do Linux/, com o conteúdo voltado para o ensino de sistemas operacionais com enfoque na abordagem dada
+    pelo kernel do Linux. 
+
+ + *2 semestre de 2006. Disciplina(s)*
+  + /Linguagem Técnica de Programação/, com o objetivo de ensinar aos alunos noções de lógica de programação.
+  + /Segurança e Monitoramento de Redes/, ementa trata do meios para fornecer segurança e monitoramento de servidores Linux.
+
+** Atividades Profissionais
+
+*** Analista de Sistemas na Companhia de Informática do Paraná (Celepar)
+Tempo de Trabalho: 03/2007 até o presente momento
+
+Atividades Desenvolvidas:
+
+ + Desenvolvimento de ambiente de programação para a companhia.
+ + Manutenção de pacotes de aplicativos Debian para o repositório interno da  companhia.
+ + Prospecção tecnológica.
+ + Suporte Linux/Jboss/Eclipse a diversos setores.
+ + Implantação de ambiente colaborativo para desenvolvimento de sistemas.
+
+**** Participação nas seguintes etapas do Circuito Celepar de Software Livre em 2010:
+
+ + *Desenvolvimento de Sistemas Utilizando Software Livre*
+   + Universidade Federal do Paraná - UFPR -  Campus Litoral; Cidade: Matinhos;  
+
+ + *Pinhão para Desenvolvimento de Software*
+   + Universidade Estadual de Londrina -- UEL; Cidade: Londrina -- PR;  
+   + Universidade Paranaense -- UNIPAR; Cidade: Umuarama -- Pr;  
+   + Universidade Federal do Paraná -- Campus Litoral; Cidade: Matinhos;  
+   + Universidade do Meio Oeste Paranaense -- UNIMEO; Cidade: Assis Chateaubriand;  
+   + Centro Universitário de União da Vitória -- UNIUV; Cidade: União da Vitória;  
+   + Universidade Paranaense -- UNIPAR; Cidade: Francisco Beltrão;  
+   + Universidade Norte do Paraná -- UNOPAR; Cidade: Arapongas;  
+   + Faculdade de Educação Superior do Paraná --  FESP; Cidade: Curitiba -- PR; Evento: II FREEFESP
+
+*** Analista de Sistemas na Universidade Federal do Paraná (UFPR)
+Tempo de Trabalho: 09/2005 até o 03/2007
+
+
+Atividades Desenvolvidas:
+ + Instalação e manutenção de servidor Linux com virtualização (openvz) para os seguintes serviços/máquinas virtuais:
+    + wiki -- sistema de edição colaborativa utilizado no desenvolvimento de sistemas.
+    + svn -- repositório de controle de versão para os sistemas desenvolvidos.
+    + tomcat -- servidor tomcat para homologação das aplicações.
+    + postgresql -- banco de dados utilizado pelas aplicações desenvolvidas internamente.
+    + home-java -- sistema de arquivos compartilhado entre os desenvolvedores.
+
+ +  Gerenciamento de equipe com 7 integrantes com objetivo de construir os sistemas necessários à UFPR.
+ +  Contato com o cliente interno à UFPR para análise dos requisitos de sistema.
+ +  Responsável técnico pela implantação do sistema PingIFES (Censo Eletrônico) da Sesu/MEC.
+ +  Responsável pelo suporte ao usuário para o módulo de protocolo do sistema SIE (ERP institucional).
+
+
+*** Técnico em Informática na Conectiva S.A.
+Tempo de Trabalho: 08/2000 a 05/2002
+
+Atividades Desenvolvidas:
+
+ + Criação e desenvolvimento dos manuais (guias) do Conectiva Linux versões de 6 a 8.
+ + Revisão e atualização das apostilas de treinamentos ministrados   pela Conectiva S.A. 
+ + Criação e atualização de soluções utilizando o Conectiva Linux (soluções são
+   pacotes de serviços e  treinamentos que a Conectiva  S.A. e seus parceiros oferecem).
+ + Análise e desenvolvimento de melhorias na qualidade final dos  manuais
+   publicados, onde houve uma melhora significativa na   qualidade visual e
+   diminuição no número de erratas publicadas. 
+ + Desenvolvimento de ferramenta de auxílio na criação dos manuais   que
+   reduziu aproximadamente em 5\% o tempo de escrita. 
+ + Desenvolvimento de shell-scripts para automatizar tarefas repetitivas.
+ + Colaborador da  Revista do Linux 
+ + Criação de Banners para o site da Revista do Linux.
+ + Coordenador de curso de ensino à distância sobre StarOffice, ministrado para a prefeitura de Uberlândia -- MG.
+ + Testes do produto em desenvolvimento (Conectiva Linux).
+ + Atividades Paralelas:  Monitor de exercícios de prevenção de LER \& DORT.
+
+** Participação Voluntária
+
+Projeto Brasileiro de Documentação do Linux -- LDP-BR.
+Atuando como coordenador do projeto brasileiro de tradução de arquivos po http://www.translationproject.org/
+
