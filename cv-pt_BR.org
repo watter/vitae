@@ -29,7 +29,7 @@
  + *Automatização de Tarefas e Documentação* Awk, Sed,  Shell Script, Elisp, LaTeX, XML 
  + *Sistemas Operacionais* Administrador Linux, Usuário Windows 
 
-** Cursos Paralelos
+** Cursos 
 
  + *2012* PLC04 -- Introdução ao Desenvolvimento Open Source para Jaguar,
    Carga Horária: 40 horas, Local: Celepar
