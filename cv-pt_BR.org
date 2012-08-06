@@ -31,9 +31,13 @@
 
 ** Cursos Paralelos
 
- + *2011* Curso de Google Search Appliance,
-        Carga Horária: 32 horas , 
-        Local: Just Digital, São Paulo - SP.
+ + *2012* PLC04 -- Introdução ao Desenvolvimento Open Source para Jaguar,
+   Carga Horária: 40 horas, Local: Celepar
+ + *2012* PLC05 -- Jaguar Básico, Carga Horária: 40 horas, Local: Celepar
+ + *2012* PLC06 -- Jaguar Avançado, Carga Horária: 40 horas, Local: Celepar
+ + *2012* PLC06 -- Jaguar Extensions, Carga Horária: 24 horas, Local: Celepar
+ + *2011* Bottom-up approach on Cloud Computing. (Carga horária: 70h). Universidade Federal do Paraná, UFPR, Brasil
+ + *2011* Curso de Google Search Appliance, Carga Horária: 32 horas, Local: Just Digital, São Paulo - SP.
  + *2003*	Curso de Expressão Verbal, 
 		Carga Horária:	16 horas, 
 		Local: Clube de Oratória e Liderança de Joinville, Joinville/SC.
@@ -93,6 +97,10 @@ Participação no desenvolvimento do produto e autoria dos livros:
 Tempo de Trabalho: 03/2011 até o presente
 
 Atividades Desenvolvidas:
+ + *1 semestre de 2012. Disciplina(s)*
+   + /Tópicos em Sistemas de Informação/, com o conteúdo voltado para o ensino de práticas de gerência de projetos.
+   + /Segurança e Monitoramento de Redes/, a ementa trata do meios para fornecer segurança e monitoramento de servidores Linux.
+
  + *2 semestre de 2011. Disciplina(s)*
    + /Tópicos em Sistemas de Informação/, com o conteúdo voltado para o ensino de práticas de gerência de projetos.
 
@@ -146,7 +154,7 @@ Atividades Desenvolvidas:
 **** Participação nas seguintes etapas do Circuito Celepar de Software Livre em 2010:
 
  + *Desenvolvimento de Sistemas Utilizando Software Livre*
-   + Universidade Federal do Paraná - UFPR -  Campus Litoral; Cidade: Matinhos;  
+   + Universidade Federal do Paraná -- UFPR --  Campus Litoral; Cidade: Matinhos;  
 
  + *Pinhão para Desenvolvimento de Software*
    + Universidade Estadual de Londrina -- UEL; Cidade: Londrina -- PR;  
@@ -157,6 +165,14 @@ Atividades Desenvolvidas:
    + Universidade Paranaense -- UNIPAR; Cidade: Francisco Beltrão;  
    + Universidade Norte do Paraná -- UNOPAR; Cidade: Arapongas;  
    + Faculdade de Educação Superior do Paraná --  FESP; Cidade: Curitiba -- PR; Evento: II FREEFESP
+
+
+**** Palestras Externas 
+
+ + Junho/2012 :: Atualização do Ambiente de Desenvolvimento de uma Grande Empresa --
+   1a Semana Acadêmica de Tecnologia em Sistemas para a Internet - UTFPR -
+   Câmpus Guarapuava
+
 
 *** Analista de Sistemas na Universidade Federal do Paraná (UFPR)
 Tempo de Trabalho: 09/2005 até o 03/2007
@@ -202,3 +218,4 @@ Atividades Desenvolvidas:
 Projeto Brasileiro de Documentação do Linux -- LDP-BR.
 Atuando como coordenador do projeto brasileiro de tradução de arquivos po http://www.translationproject.org/
 
+Tradutor oficial [[http://trac.edgewall.org/][TRAC - http://trac.edgewall.org/]] para o portugues brasileiro (pt_BR)
