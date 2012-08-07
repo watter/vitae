@@ -145,11 +145,14 @@ Tempo de Trabalho: 03/2007 até o presente momento
 
 Atividades Desenvolvidas:
 
+ + Prospecção de solução de banco de imagens para a Secretaria de Comunicação
+   Social do Estado do Paraná -- em fase de implantação
+ + Prospecção/implantação de framework de desenvolvimento web para a companhia.
  + Desenvolvimento de ambiente de programação para a companhia.
  + Manutenção de pacotes de aplicativos Debian para o repositório interno da  companhia.
- + Prospecção tecnológica.
  + Suporte Linux/Jboss/Eclipse a diversos setores.
  + Implantação de ambiente colaborativo para desenvolvimento de sistemas.
+
 
 **** Participação nas seguintes etapas do Circuito Celepar de Software Livre em 2010:
 
@@ -211,7 +214,7 @@ Atividades Desenvolvidas:
  + Criação de Banners para o site da Revista do Linux.
  + Coordenador de curso de ensino à distância sobre StarOffice, ministrado para a prefeitura de Uberlândia -- MG.
  + Testes do produto em desenvolvimento (Conectiva Linux).
- + Atividades Paralelas:  Monitor de exercícios de prevenção de LER \& DORT.
+ + Atividades Paralelas:  Monitor de exercícios de prevenção de LER & DORT.
 
 ** Participação Voluntária
 
