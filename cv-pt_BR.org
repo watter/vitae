@@ -1,5 +1,5 @@
 
-* Curriculum Vitae - pt_BR
+* Curriculum Vitae
 
 ** Dados Pessoais
  + *Nome* Leslie Harlley Watter
@@ -17,10 +17,6 @@
  + *Graduação* Curso de Ciência da Computação,
    Término: Abril de 2003 
    Local: Universidade Federal do  Paraná -  UFPR.
-
- + *Médio* Técnico em Processamento de Dados, 
-   Término: dezembro de 1995 
-   Local: Escola Técnica da Universidade Federal do Paraná.
 
 
 ** Conhecimentos na Área Profissional
