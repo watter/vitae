@@ -27,6 +27,12 @@
 
 ** Cursos 
 
+ + *2013* Curso de Desenvolvimento Android, Carga Horária: 40 horas, Local:
+   Curitiba - PR.
+ + *2013* Curso de Titanium Studio (Framework Appcelerator para desenv Mobile),
+   Carga Horária: 60 horas, Curitiba - PR
+ + *2013* Curso de Google Search Appliance Avançado, Carga Horária: 32 horas,
+   Curitiba - PR.
  + *2012* PLC04 -- Introdução ao Desenvolvimento Open Source para Jaguar,
    Carga Horária: 40 horas, Local: Celepar
  + *2012* PLC05 -- Jaguar Básico, Carga Horária: 40 horas, Local: Celepar
@@ -93,6 +99,13 @@ Participação no desenvolvimento do produto e autoria dos livros:
 Tempo de Trabalho: 03/2011 até o presente
 
 Atividades Desenvolvidas:
+ + *2 semestre de 2013. Disciplina(s)*
+   + /Projeto de Redes/, ementa com enfoque no planejamento de um projeto de rede corporativa.
+
+ + *1 semestre de 2013. Disciplina(s)*
+   + /Projeto de Redes/, ementa com enfoque no planejamento de um projeto de rede corporativa.
+   + /Segurança e Monitoramento de Redes/, a ementa trata do meios para fornecer segurança e monitoramento de servidores Linux.
+
  + *1 semestre de 2012. Disciplina(s)*
    + /Tópicos em Sistemas de Informação/, com o conteúdo voltado para o ensino de práticas de gerência de projetos.
    + /Segurança e Monitoramento de Redes/, a ementa trata do meios para fornecer segurança e monitoramento de servidores Linux.
@@ -141,6 +154,8 @@ Tempo de Trabalho: 03/2007 até o presente momento
 
 Atividades Desenvolvidas:
 
+ + Implantação do Google Search Appliance
+ + Prospecção e adaptação de framework /mobile/ para a Celepar.
  + Prospecção de solução de banco de imagens para a Secretaria de Comunicação
    Social do Estado do Paraná -- em fase de implantação
  + Prospecção/implantação de framework de desenvolvimento web para a companhia.
