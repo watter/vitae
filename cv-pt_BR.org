@@ -82,7 +82,7 @@ Participação no desenvolvimento do produto e autoria dos livros:
  + *Guia do Servidor Conectiva Linux 7.0*
    publicado em 2001, 
    editado por Conectiva S.A.,		
-   345p, ISBN 85-87118-36-6 
+   345p, ISBN 85-87118-38-2 
  + *Ferramentas Linux: Programas Gráficos*
    publicado em 2000,
    editado por Conectiva S.A.,
